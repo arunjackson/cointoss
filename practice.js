@@ -2,6 +2,8 @@
 
 let x; 
 let y;
+let hcount =0;
+let tcount =0;
   
 
 function tosss()
