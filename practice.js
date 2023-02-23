@@ -11,11 +11,13 @@ function tosss()
      x= Math.floor(  Math.random()*2 ) +1  ;
     if(x==1){
         y="HEAD";
+        hcount+=1;
      } 
      else
  {
      
         y="TAIL";
+       tcount+=1;
      }
     
     document.getElementById("res").innerHTML= y ;
