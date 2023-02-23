@@ -1,15 +1,16 @@
 body
 {
   /* Created with https://www.css-gradient.com */
-background-image: url("/WEBPORT/javascript /pexels-cátia-matos-1072179.jpg ");
-background-image: linear-gradient(rgb(0, 0, 0) ,rgb(255, 0, 43));
+/* background-image: url("/WEBPORT/javascript /pexels-cátia-matos-1072179.jpg ");
+background-image: linear-gradient(rgb(0, 0, 0) ,rgb(255, 0, 43)); */
+  background: conic-gradient(from 180deg, #8D9913, #e100ff);
 
 }
 
 #tossit
 {
-    height: 90px;
-    width: 90px;
+    height: 150px;
+    width: 150px;
     border-radius: 100%;
     background-color: silver;
     font-family: serif;
