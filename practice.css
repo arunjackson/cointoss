@@ -22,7 +22,7 @@ body
    
    font-weight:900;
    font-family: sans-serif;
-   color: rgb(185, 193, 187);
+  color: rgb(0, 255, 213);
    font-size: 110px;
    animation: result 4s ease-in-out 0s ease-in-out forwards backwards;
    box-shadow: 3px 5px 10px;
