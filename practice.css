@@ -1,0 +1,58 @@
+body
+{
+  /* Created with https://www.css-gradient.com */
+background-image: url("/WEBPORT/javascript /pexels-cátia-matos-1072179.jpg ");
+background-image: linear-gradient(rgb(0, 0, 0) ,rgb(255, 0, 43));
+
+}
+
+#tossit
+{
+    height: 90px;
+    width: 90px;
+    border-radius: 100%;
+    background-color: silver;
+    font-family: serif;
+    border-width: 10px;
+    box-shadow: 10px 40px 100px;
+
+
+}
+#res
+{
+   
+   font-weight:900;
+   font-family: sans-serif;
+   color: rgb(185, 193, 187);
+   font-size: 110px;
+   animation: result 4s ease-in-out 0s ease-in-out forwards backwards;
+   box-shadow: 3px 5px 10px;
+   border-radius: 20px;
+   
+}
+.heading
+{
+    font-weight:900;
+    font-family: sans-serif;
+    color: silver;
+
+}
+div{
+    animation: result 4s ease-in-out 0s ease-in-out forwards backwards;
+    width: 350px;
+}
+button:hover
+{
+    background-color: aliceblue;
+}
+button
+{
+    box-shadow: 3px 10px 10px;
+    background-color: rgb(168, 168, 168);
+     border-style:solid;  
+     border-color: rgb(255, 255, 255);
+      border-radius: 10px;
+       height: 40px;
+        width: 200px; 
+        font-family: sans-serif;
+}
