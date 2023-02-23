@@ -27,4 +27,7 @@ function refresh()
     
 }
 
-
+function totalc()
+{
+    document.getElementById('counts').innerHTML= "head count : " +hcount + "  tail count : " + tcount;
+}
